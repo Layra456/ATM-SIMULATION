@@ -1,0 +1,123 @@
+[
+    {
+        "name": "abdul arham",
+        "pin": "9822",
+        "card_number": "2222",
+        "balance": 443716.0,
+        "transactions": [
+            {
+                "type": "Deposit",
+                "amount": 500000.0,
+                "time": "Tue Nov 11 00:17:53 2025",
+                "Remaining Balance": 500000.0
+            },
+            {
+                "type": "Withdraw",
+                "amount": 35000.0,
+                "time": "Tue Nov 11 00:18:17 2025",
+                "Remaining Balance": 465000.0
+            },
+            {
+                "type": "Transfer sent",
+                "amount": 10000.0,
+                "to": "rameen khan",
+                "time": "Tue Nov 11 00:20:02 2025",
+                "Remaining Balance": 455000.0
+            },
+            {
+                "type": "Transfer received",
+                "amount": 23000.0,
+                "from": "rameen khan",
+                "time": "Tue Nov 11 19:49:56 2025",
+                "Remaining Balance": 478000.0
+            },
+            {
+                "type": "Deposit",
+                "amount": 3450.0,
+                "time": "Tue Nov 11 19:54:16 2025",
+                "Remaining Balance": 481450.0
+            },
+            {
+                "type": "Withdraw",
+                "amount": 3234.0,
+                "time": "Tue Nov 11 19:54:24 2025",
+                "Remaining Balance": 478216.0
+            },
+            {
+                "type": "Transfer sent",
+                "amount": 34500.0,
+                "to": "rameen khan",
+                "time": "Tue Nov 11 19:54:59 2025",
+                "Remaining Balance": 443716.0
+            }
+        ]
+    },
+    {
+        "name": "rameen khan",
+        "pin": "9822",
+        "card_number": "2221",
+        "balance": 194443.0,
+        "transactions": [
+            {
+                "type": "Transfer received",
+                "amount": 10000.0,
+                "from": "abdul arham",
+                "time": "Tue Nov 11 00:20:02 2025",
+                "Remaining Balance": 10000.0
+            },
+            {
+                "type": "Deposit",
+                "name": "rameen khan",
+                "amount": 45000.0,
+                "time": "Tue Nov 11 09:51:18 2025",
+                "remaining balance": 55000.0
+            },
+            {
+                "type": "Deposit",
+                "name": "rameen khan",
+                "amount": 33333.0,
+                "time": "Tue Nov 11 09:51:59 2025",
+                "remaining balance": 88333.0
+            },
+            {
+                "type": "Deposit",
+                "amount": 45666.0,
+                "time": "Tue Nov 11 19:47:06 2025",
+                "Remaining Balance": 133999.0
+            },
+            {
+                "type": "Deposit",
+                "amount": 56600.0,
+                "time": "Tue Nov 11 19:49:14 2025",
+                "Remaining Balance": 190599.0
+            },
+            {
+                "type": "Withdraw",
+                "amount": 7656.0,
+                "time": "Tue Nov 11 19:49:17 2025",
+                "Remaining Balance": 182943.0
+            },
+            {
+                "type": "Transfer sent",
+                "amount": 23000.0,
+                "to": "abdul arham",
+                "time": "Tue Nov 11 19:49:56 2025",
+                "Remaining Balance": 159943.0
+            },
+            {
+                "type": "Transfer received",
+                "amount": 34500.0,
+                "from": "abdul arham",
+                "time": "Tue Nov 11 19:54:59 2025",
+                "Remaining Balance": 194443.0
+            }
+        ]
+    },
+    {
+        "name": "ayan",
+        "pin": "3456",
+        "card_number": "2345",
+        "balance": 0.0,
+        "transactions": []
+    }
+]
